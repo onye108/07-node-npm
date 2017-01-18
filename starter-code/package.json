@@ -1,0 +1,26 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "\"Chika Lab 7\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onye108/07-node-npm.git"
+  },
+  "keywords": [
+    "[",
+    "\"chika\"",
+    "\"seattle\"",
+    "\"atlanta\"]"
+  ],
+  "author": "\"chika\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onye108/07-node-npm/issues"
+  },
+  "homepage": "https://github.com/onye108/07-node-npm#readme"
+}
